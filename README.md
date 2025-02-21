@@ -25,7 +25,7 @@ Pandas for data handling
 
 BeautifulSoup / Scrapy for web scraping
 
-VADER / TextBlob for sentiment analysis
+VADER / TextBlob for sentment analysis
 
 
 📊 Results & Insights
